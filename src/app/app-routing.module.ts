@@ -9,7 +9,7 @@ const routes: Routes = [
   { path: 'home', component: HomePageComponent },
   { path: 'services', component: ServicesPageComponent },
   { path: 'contactus', component: ContactusPageComponent }
-];
+]; 
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
