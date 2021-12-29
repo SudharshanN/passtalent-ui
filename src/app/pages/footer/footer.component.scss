@@ -1,38 +1,37 @@
 .footer {
-    height: 74px;
-    background-color: #32363a;
-    display: flex;
-    justify-content: space-between;
-    padding-right: 50px;
+  height: 74px;
+  background-color: #32363a;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
 }
 
 .footer_title {
-    color: white;
-     font-size: 13px;
-     margin-top: 17px;
-     margin-left: 50px;
-     width: 255px;
+  color: white;
+  font-size: 13px;
+  margin-top: 17px;
+  width: 255px;
 }
 
 .footer_nav {
-    margin-top: 29px;
+  margin-top: 29px;
 }
 
 .f_nav {
-    color: white;
-    text-decoration: none;
-    margin-left: 56px;
-    font-size: 16px;
+  color: white;
+  text-decoration: none;
+  margin-left: 56px;
+  font-size: 16px;
 }
 
 .social_icons {
-    display: flex;
-    margin-top: 26px;
+  display: flex;
+  margin-top: 26px;
 }
 
 .fb {
-    width: 20px;
-    height: 24px;
-    object-fit: contain;
-    margin-left: 31px;
+  width: 20px;
+  height: 24px;
+  object-fit: contain;
+  margin-left: 31px;
 }
