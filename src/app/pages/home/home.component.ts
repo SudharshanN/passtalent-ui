@@ -12,4 +12,8 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  onClick() {
+    alert("You have Pressed a Button to See More Supported By Schools && Colleges");
+  }
+
 }
